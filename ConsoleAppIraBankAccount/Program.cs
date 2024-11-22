@@ -29,7 +29,7 @@ class BankAccount
     {
         AccountNumber = "";
         OwnerName = "";
-        Balance = 0m;
+        Balance = 0;
     }
 
     public BankAccount(string accountNumber, string ownerName, decimal balance)
